@@ -1,2 +1,1 @@
-# MochilaDeViagem
-Uma mochila de viagens criada via HTML5 + JS
+# alura-armazenando-na-web
