@@ -1,1 +1,1 @@
-# alura-armazenando-na-web
+# Projeto criado usando html5 + JS
